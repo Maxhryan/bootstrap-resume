@@ -1,0 +1,8 @@
+.skills > h4 {
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 5px;
+}
+.jumbotron {
+    padding-left: 1em;
+    border-radius: 5px;
+}
